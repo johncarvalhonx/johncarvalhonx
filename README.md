@@ -9,7 +9,7 @@
   </p>
   <br/>
   <p>
-    <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+    <a href="https://www.linkedin.com/in/joaopedrovbcarvalho/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
     </a>
     <a href="https://github.com/johncarvalhonx" target="_blank">
@@ -27,9 +27,9 @@
 
 ## 🎯 **Professional Objective & Work Preference**
 
-Actively seeking a challenging **Backend Engineering Internship**. My primary goal is to leverage my advanced skills in **Python** [cite: 2, 6] and **Java** [cite: 6] to contribute significantly to impactful projects involving **microservices, robust APIs, efficient data pipelines, and cloud infrastructure**. I am deeply committed to developing sustainable and scalable technology solutions[cite: 4, 8].
+Actively seeking a challenging **Backend Engineering Internship**. My primary goal is to leverage my advanced skills in **Python** and **Java** to contribute significantly to impactful projects involving **microservices, robust APIs, efficient data pipelines, and cloud infrastructure**. I am deeply committed to developing sustainable and scalable technology solutions.
 
-While my core passion lies in backend systems[cite: 3, 4], I possess a strong foundation in frontend development (**React, JS/TS**) [cite: 2, 6] and am enthusiastic about **Full-Stack** opportunities that align with my growth trajectory and allow me to utilize my diverse technical skills.
+While my core passion lies in backend systems, I possess a strong foundation in frontend development (**React, JS/TS**) and am enthusiastic about **Full-Stack** opportunities that align with my growth trajectory and allow me to utilize my diverse technical skills.
 
 My strong preference is for **Remote (Home-Office)** opportunities. My current environment is fully equipped and optimized for focused, productive remote work, enabling seamless integration into distributed teams.
 
@@ -43,13 +43,13 @@ My strong preference is for **Remote (Home-Office)** opportunities. My current e
 
 ## ✨ **Why Collaborate With Me? (Key Strengths)**
 
-* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> **Proven Python Backend Expertise:** Solid experience developing backend systems and data-related tasks using Python[cite: 8].
-* <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> **Full-Stack Capabilities:** Experience working with APIs, databases (MySQL, MongoDB), and both frontend (React) and backend technologies[cite: 8, 6].
-* <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> **Modern Tooling Familiarity:** Hands-on familiarity with containerization tools like Docker[cite: 8, 6]. Proficient with Git/GitHub[cite: 6].
-* <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> **Proactive & Curious Learner:** Quick to adapt, actively seeking knowledge, with a strong interest in SRE practices and DevOps culture[cite: 3, 8].
-* <g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> **Team-Oriented & Collaborative:** Enthusiastic about mentorship, receiving feedback, and growing through collaborative environments[cite: 8].
-* <g-emoji class="g-emoji" alias="recycle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267b.png">♻️</g-emoji> **Sustainability Focus:** Deeply interested in leveraging technology for sustainable solutions[cite: 8].
-* <g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🧠</g-emoji> **Strong Logical Foundation:** Well-versed in programming logic[cite: 7], algorithms, and asynchronous/concurrent programming concepts[cite: 7].
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> **Proven Python Backend Expertise:** Solid experience developing backend systems and data-related tasks using Python.
+* <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> **Full-Stack Capabilities:** Hands-on familiarity working with APIs, databases (MySQL, MongoDB), and both frontend (React) and backend technologies.
+* <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> **Modern Tooling Familiarity:** Hands-on familiarity with containerization tools like Docker. Proficient with Git/GitHub.
+* <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> **Proactive & Curious Learner:** Quick to adapt, actively seeking knowledge, with a strong interest in SRE practices and DevOps culture.
+* <g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> **Team-Oriented & Collaborative:** Enthusiastic about mentorship, receiving feedback, and growing through collaborative environments.
+* <g-emoji class="g-emoji" alias="recycle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267b.png">♻️</g-emoji> **Sustainability Focus:** Deeply interested in leveraging technology for sustainable solutions.
+* <g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🧠</g-emoji> **Strong Logical Foundation:** Well-versed in programming logic, algorithms, and asynchronous/concurrent programming concepts.
 
 <br/>
 <br/>
@@ -110,7 +110,7 @@ My strong preference is for **Remote (Home-Office)** opportunities. My current e
     <tr>
       <td align="center" valign="top"><strong>Concepts & Paradigms</strong></td>
       <td>
-        Object-Oriented Programming (OOP) | Asynchronous & Concurrent Programming [cite: 7] | RESTful APIs | Frontend/Backend Development [cite: 7] | Programming Logic [cite: 7] | Algorithms & Data Structures | CI/CD Concepts (Basic) [cite: 7] | SRE/DevOps Culture (Interest) [cite: 8]
+        Object-Oriented Programming (OOP) | Asynchronous & Concurrent Programming | RESTful APIs | Frontend/Backend Development | Programming Logic | Algorithms & Data Structures | CI/CD Concepts (Basic) | SRE/DevOps Culture (Interest)
       </td>
     </tr>
   </tbody>
@@ -165,11 +165,11 @@ My strong preference is for **Remote (Home-Office)** opportunities. My current e
 ## 🎓 **Formal Education**
 
 * **B.Sc. Computer Science** | Universidade Paulista (UNIP) | São Paulo, BR
-    * *Expected Graduation:* December 2025 [cite: 5]
+    * *Expected Graduation:* December 2025
     * *Current Status:* 7th Semester (Final Year)
 
 * **High School Diploma** | Colégio Máximo | São Paulo, BR
-    * *Graduated:* 2021 [cite: 5]
+    * *Graduated:* 2021
 
 <br/>
 <br/>
@@ -181,13 +181,13 @@ My strong preference is for **Remote (Home-Office)** opportunities. My current e
 
 ## 💡 **Online Courses & Certifications** (Continuous Learning)
 
-* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Python Programming - Beginner to Advanced (Udemy, 2023) [cite: 5]
-* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Concurrent and Asynchronous Programming in Python (Udemy, 2023) [cite: 5]
-* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> React JS with TypeScript and Projects (Udemy, 2024) [cite: 5]
-* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Fullstack Web Development: HTML, CSS, JS Projects (Udemy, 2024) [cite: 5]
-* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Algorithms & Programming Logic (Udemy, 2022) [cite: 5]
-* <g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> *Java & Spring Boot, MySQL, MongoDB (Udemy, Target 2025)* [cite: 5]
-* <g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> *iOS & Swift App Development Bootcamp (Udemy, Target 2025)* [cite: 5]
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Python Programming - Beginner to Advanced (Udemy, 2023)
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Concurrent and Asynchronous Programming in Python (Udemy, 2023)
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> React JS with TypeScript and Projects (Udemy, 2024)
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Fullstack Web Development: HTML, CSS, JS Projects (Udemy, 2024)
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Algorithms & Programming Logic (Udemy, 2022)
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Java & Spring Boot, MySQL, MongoDB (Udemy, 2025)
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> iOS & Swift App Development Bootcamp (Udemy, 2025)
 
 <br/>
 <br/>
@@ -202,7 +202,6 @@ My strong preference is for **Remote (Home-Office)** opportunities. My current e
 <div align="center">
   <img src="https://img.shields.io/badge/Portuguese-Native-brightgreen?style=flat-square" alt="Portuguese"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/English-Fluent_(C1/C2)-blue?style=flat-square" alt="English"/>&nbsp;&nbsp; <img src="https://img.shields.io/badge/Spanish-Basic_(A2)-orange?style=flat-square" alt="Spanish"/> </div>
-*Note: Proficiency levels added for context; English fluency cited from resume[cite: 7].*
 
 <br/>
 <br/>
@@ -215,7 +214,7 @@ My strong preference is for **Remote (Home-Office)** opportunities. My current e
   <p><em>I'm always open to discussing exciting internship opportunities, innovative projects, or simply connecting with other passionate developers.</em></p>
   <br/>
   <p>
-    <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+    <a href="https://www.linkedin.com/in/joaopedrovbcarvalho/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
     </a>&nbsp;&nbsp; <a href="mailto:joaopedrovillasboascarvalho@gmail.com">
       <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
