@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/johncarvalhonx/johncarvalhonx/main/assets/PROFESSIONAL_BANNER_PLACEHOLDER.png" alt="João Pedro (John) Carvalho - Software Developer Banner"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1><strong>João Pedro Villas Boas de Carvalho (John Carvalho)</strong></h1>
 
   <p>
     <em>🚀 Final Year Computer Science Student @ UNIP | Passionate Backend Engineer | 21 Years Old 🚀</em><br/>
     <em>📍 São Paulo, Brazil 🇧🇷 | Building Scalable, Modern & Sustainable Software Solutions</em>
   </p>
-
+  <br/>
   <p>
     <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
@@ -21,36 +21,50 @@
   </p>
   </div>
 
----
+<br/>
+<hr/>
+<br/>
 
 ## 🎯 **Professional Objective & Work Preference**
 
-Actively pursuing a challenging **Backend Engineering Internship**. My primary goal is to leverage my advanced skills in **Python** and **Java** to contribute significantly to impactful projects involving **microservices, robust APIs, efficient data pipelines, and cloud infrastructure**[cite: 4]. I am deeply committed to developing sustainable and scalable technology solutions[cite: 4].
+Actively seeking a challenging **Backend Engineering Internship**. My primary goal is to leverage my advanced skills in **Python** [cite: 2, 6] and **Java** [cite: 6] to contribute significantly to impactful projects involving **microservices, robust APIs, efficient data pipelines, and cloud infrastructure**. I am deeply committed to developing sustainable and scalable technology solutions[cite: 4, 8].
 
-While my core passion lies in backend systems, I possess a strong foundation in frontend development (**React, JS/TS**) [cite: 2] and am enthusiastic about **Full-Stack** opportunities that align with my growth trajectory and allow me to utilize my diverse technical skills[cite: 6].
+While my core passion lies in backend systems[cite: 3, 4], I possess a strong foundation in frontend development (**React, JS/TS**) [cite: 2, 6] and am enthusiastic about **Full-Stack** opportunities that align with my growth trajectory and allow me to utilize my diverse technical skills.
 
 My strong preference is for **Remote (Home-Office)** opportunities. My current environment is fully equipped and optimized for focused, productive remote work, enabling seamless integration into distributed teams.
 
+<br/>
+<br/>
+
 ---
+
+<br/>
+<br/>
 
 ## ✨ **Why Collaborate With Me? (Key Strengths)**
 
 * <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> **Proven Python Backend Expertise:** Solid experience developing backend systems and data-related tasks using Python[cite: 8].
-* <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> **Full-Stack Capabilities:** Experience working with APIs, databases (MySQL[cite: 6], MongoDB [cite: 6]), and both frontend (React [cite: 6]) and backend technologies[cite: 8].
-* <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> **Modern Tooling Familiarity:** Hands-on familiarity with containerization tools like Docker[cite: 8]. Proficient with Git/GitHub[cite: 6].
-* <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> **Proactive & Curious Learner:** Quick to adapt[cite: 8], actively seeking knowledge, with a strong interest in SRE practices and DevOps culture[cite: 8].
+* <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> **Full-Stack Capabilities:** Experience working with APIs, databases (MySQL, MongoDB), and both frontend (React) and backend technologies[cite: 8, 6].
+* <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> **Modern Tooling Familiarity:** Hands-on familiarity with containerization tools like Docker[cite: 8, 6]. Proficient with Git/GitHub[cite: 6].
+* <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> **Proactive & Curious Learner:** Quick to adapt, actively seeking knowledge, with a strong interest in SRE practices and DevOps culture[cite: 3, 8].
 * <g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> **Team-Oriented & Collaborative:** Enthusiastic about mentorship, receiving feedback, and growing through collaborative environments[cite: 8].
 * <g-emoji class="g-emoji" alias="recycle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267b.png">♻️</g-emoji> **Sustainability Focus:** Deeply interested in leveraging technology for sustainable solutions[cite: 8].
-* <g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🧠</g-emoji> **Strong Logical Foundation:** Well-versed in programming logic, algorithms, and asynchronous/concurrent programming concepts[cite: 6].
+* <g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🧠</g-emoji> **Strong Logical Foundation:** Well-versed in programming logic[cite: 7], algorithms, and asynchronous/concurrent programming concepts[cite: 7].
+
+<br/>
+<br/>
 
 ---
+
+<br/>
+<br/>
 
 ## 💻 **Technical Skillset**
 
 <table>
   <thead>
     <tr>
-      <th>Category</th>
+      <th align="center">Category</th>
       <th>Skills & Tools</th>
     </tr>
   </thead>
@@ -96,13 +110,19 @@ My strong preference is for **Remote (Home-Office)** opportunities. My current e
     <tr>
       <td align="center" valign="top"><strong>Concepts & Paradigms</strong></td>
       <td>
-        Object-Oriented Programming (OOP) | Asynchronous & Concurrent Programming | RESTful APIs | Frontend/Backend Development | Programming Logic | Algorithms & Data Structures | CI/CD Concepts (Basic) | SRE/DevOps Culture (Interest)
+        Object-Oriented Programming (OOP) | Asynchronous & Concurrent Programming [cite: 7] | RESTful APIs | Frontend/Backend Development [cite: 7] | Programming Logic [cite: 7] | Algorithms & Data Structures | CI/CD Concepts (Basic) [cite: 7] | SRE/DevOps Culture (Interest) [cite: 8]
       </td>
     </tr>
   </tbody>
 </table>
 
+<br/>
+<br/>
+
 ---
+
+<br/>
+<br/>
 
 ## 📊 **GitHub Contributions & Activity**
 
@@ -110,76 +130,94 @@ My strong preference is for **Remote (Home-Office)** opportunities. My current e
 
   <img src="https://github-readme-stats.vercel.app/api?username=johncarvalhonx&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncarvalhonx&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johncarvalhonx&theme=react-dark&hide_border=true&radius=8&height=280" alt="Contribution Graph"/>
+  <br/><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=johncarvalhonx&theme=react-dark&hide_border=true&radius=8&height=280" alt="Contribution Graph"/>
   </div>
+
+<br/>
+<br/>
 
 ---
 
-##  doświadczenie zawodowe (Professional Experience)
+<br/>
+<br/>
+
+## 💼 **Professional Experience**
 
 <details>
-  <summary>Click to Expand Experience Details</summary>
+  <summary><g-emoji alias="briefcase">💼</g-emoji> Click to Expand Experience Details</summary>
   <br/>
   While focusing on my academic journey and personal projects, I've gained practical skills through roles like:
   <ul>
     <li><strong>Freelancer (Various Projects):</strong> Developed self-management, client communication, requirements gathering, and practical application of diverse technical skills across independent projects.</li>
-    <li><strong>Data Entry Clerk (PRODESP):</strong> Cultivated strong attention to detail, data accuracy, responsibility, and understanding of information management within organizational processes[cite: 8].</li>
+    <li><strong>Data Entry Clerk (PRODESP):</strong> Cultivated strong attention to detail, data accuracy, responsibility, and understanding of information management within organizational processes.</li>
   </ul>
   <em>These experiences have provided a solid foundation in responsibility, independent work, and data handling.</em>
 </details>
 
----
-
-## 📚 **Education & Continuous Learning**
-
-<details>
-  <summary>🎓 **B.Sc. Computer Science - Universidade Paulista (UNIP)** | São Paulo, BR | <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> *Expected Graduation: Dec 2025*</summary>
-  <br/>
-  Currently in the 7th semester (final year), delving into advanced software architecture, database management, and capstone project development. Consistently applying theoretical knowledge to practical coding challenges.
-</details>
-
-<details>
-  <summary>🏫 **High School Diploma - Colégio Máximo** | São Paulo, BR | <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> *2007 - 2021*</summary>
-  <br/>
-  Completed comprehensive secondary education, building a strong academic foundation[cite: 5].
-</details>
-
-<details open> <summary>💡 **Relevant Courses & Certifications** (Lifelong Learner)</summary>
-  <br/>
-  <ul>
-    <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Python Programming - Beginner to Advanced (Udemy, 2023) [cite: 5]</li>
-    <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Concurrent and Asynchronous Programming in Python (Udemy, 2023) [cite: 5]</li>
-    <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> React JS with TypeScript and Projects (Udemy, 2024) [cite: 5]</li>
-    <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Fullstack Web Development: HTML, CSS, JS Projects (Udemy, 2024) [cite: 5]</li>
-    <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Algorithms & Programming Logic (Udemy, 2022) [cite: 5]</li>
-    <li><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> <em>(In Progress)</em> Java & Spring Boot, MySQL, MongoDB (Udemy, Target 2025) [cite: 5]</li>
-    <li><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> <em>(In Progress)</em> iOS & Swift App Development Bootcamp (Udemy, Target 2025) [cite: 5]</li>
-  </ul>
-</details>
+<br/>
+<br/>
 
 ---
+
+<br/>
+<br/>
+
+## 🎓 **Formal Education**
+
+* **B.Sc. Computer Science** | Universidade Paulista (UNIP) | São Paulo, BR
+    * *Expected Graduation:* December 2025 [cite: 5]
+    * *Current Status:* 7th Semester (Final Year)
+
+* **High School Diploma** | Colégio Máximo | São Paulo, BR
+    * *Graduated:* 2021 [cite: 5]
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+## 💡 **Online Courses & Certifications** (Continuous Learning)
+
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Python Programming - Beginner to Advanced (Udemy, 2023) [cite: 5]
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Concurrent and Asynchronous Programming in Python (Udemy, 2023) [cite: 5]
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> React JS with TypeScript and Projects (Udemy, 2024) [cite: 5]
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Fullstack Web Development: HTML, CSS, JS Projects (Udemy, 2024) [cite: 5]
+* <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Algorithms & Programming Logic (Udemy, 2022) [cite: 5]
+* <g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> *Java & Spring Boot, MySQL, MongoDB (Udemy, Target 2025)* [cite: 5]
+* <g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> *iOS & Swift App Development Bootcamp (Udemy, Target 2025)* [cite: 5]
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
 
 ## 🌍 **Languages**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Portuguese-Native-brightgreen?style=flat-square" alt="Portuguese"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/English-Fluent_(C1/C2)-blue?style=flat-square" alt="English"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spanish-Basic_(A2)-orange?style=flat-square" alt="Spanish"/>
-</div>
+  <img src="https://img.shields.io/badge/English-Fluent_(C1/C2)-blue?style=flat-square" alt="English"/>&nbsp;&nbsp; <img src="https://img.shields.io/badge/Spanish-Basic_(A2)-orange?style=flat-square" alt="Spanish"/> </div>
+*Note: Proficiency levels added for context; English fluency cited from resume[cite: 7].*
+
+<br/>
+<br/>
 
 ---
-
-<hr/>
+<br/>
 
 <div align="center">
   <h3>📬 Let's Connect and Build Together!</h3>
   <p><em>I'm always open to discussing exciting internship opportunities, innovative projects, or simply connecting with other passionate developers.</em></p>
+  <br/>
   <p>
     <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-    </a>&nbsp;&nbsp;
-    <a href="mailto:joaopedrovillasboascarvalho@gmail.com">
+    </a>&nbsp;&nbsp; <a href="mailto:joaopedrovillasboascarvalho@gmail.com">
       <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
     </a>
   </p>
