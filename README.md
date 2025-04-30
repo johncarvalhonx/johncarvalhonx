@@ -128,8 +128,8 @@ My strong preference is for **Remote (Home-Office)** opportunities. My current e
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=johncarvalhonx&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncarvalhonx&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=johncarvalhonx&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncarvalhonx&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
   <br/><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=johncarvalhonx&theme=react-dark&hide_border=true&radius=8&height=280" alt="Contribution Graph"/>
   </div>
 
