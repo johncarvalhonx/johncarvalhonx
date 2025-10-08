@@ -1,19 +1,19 @@
 <div align="center">
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="96" alt="dev"/>
-  
+
   <h1><strong>João Pedro Villas Boas de Carvalho</strong></h1>
 
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1100&color=39D353&center=true&vCenter=true&width=1000&lines=Backend+Engineer+(Python%2FJava);APIs+REST%2FMicroservices%2C+Cloud%2C+CI%2FCD;FastAPI%2C+Spring+Boot%2C+Docker%2C+MySQL%2C+MongoDB;Dispon%C3%ADvel%3A+Est%C3%A1gio%2FJr+(Remoto)%2C+S%C3%A3o+Paulo+-+BR" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1100&color=39D353&center=true&vCenter=true&width=1000&lines=Backend+Engineer+(Python%2FJava);APIs+REST%2FMicroservices%2C+Cloud%2C+CI%2FCD;FastAPI%2C+Spring+Boot%2C+Docker%2C+MySQL%2C+MongoDB;Dispon%C3%ADvel%3A+%2FJúnior%2C+S%C3%A3o+Paulo+-+BR" alt="typing" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1100&color=39D353&center=true&vCenter=true&width=1000&lines=Backend+J%C3%BAnior+(Python%2FJava);APIs+REST%2FMicroservices%2C+CI%2FCD%2C+Cloud;FastAPI%2C+Spring+Boot%2C+Docker%2C+MySQL%2C+MongoDB;S%C3%A3o+Paulo+-+BR" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1100&color=39D353&center=true&vCenter=true&width=1000&lines=Backend+J%C3%BAnior+(Python%2FJava);APIs+REST%2FMicroservices%2C+CI%2FCD%2C+Cloud;FastAPI%2C+Spring+Boot%2C+Docker%2C+MySQL%2C+MongoDB;S%C3%A3o+Paulo+-+BR" alt="typing" />
   </a>
 
   <p>
     <a href="https://www.linkedin.com/in/joaopedrovbcarvalho/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-joaopedrovbcarvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:joaopedrovillasboascarvalho@gmail.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      <img alt="Email" src="https://img.shields.io/badge/Email-joaopedrovillasboascarvalho%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://github.com/johncarvalhonx">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@johncarvalhonx-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -23,7 +23,7 @@
   <p>
     <img alt="Views" src="https://komarev.com/ghpvc/?username=johncarvalhonx&style=for-the-badge&color=0e75b6">
     <img alt="Followers" src="https://img.shields.io/github/followers/johncarvalhonx?style=for-the-badge">
-    <img alt="Last Update" src="https://img.shields.io/github/last-commit/johncarvalhonx/johncarvalhonx?style=for-the-badge&label=last%20update">
+    <img alt="Last Update" src="https://img.shields.io/github/last-commit/johncarvalhonx/johncarvalhonx?style=for-the-badge&label=ultimo%20commit">
   </p>
 
 </div>
@@ -32,25 +32,25 @@
 
 ## 🎯 Objetivo
 
-Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring Boot)**, APIs REST, microserviços, integrações, bancos de dados e automação.
+Atuar como **Desenvolvedor Backend Júnior** com foco em **Python (FastAPI)** e **Java (Spring Boot)**, construindo **APIs REST** bem testadas, integrações estáveis, bancos **SQL/NoSQL**, **Docker** e **CI/CD**.
 
 ---
 
 ## ⚡ Destaques
 
-- **Backend com Python/Java**: APIs REST, autenticação JWT, filas, testes, logs.
-- **Dados**: ETL leve, consumo/integração de APIs, consultas eficientes (SQL/NoSQL).
-- **DevOps básico**: Docker, docker-compose, CI/CD GitHub Actions.
-- **Frontend para apoio**: React + TS quando necessário.
-- **Rotina remota (caso necessária)**: ambiente preparado, comunicação assíncrona, foco em entrega.
+- **Backend com Python/Java**: APIs REST, autenticação JWT, testes (Pytest/JUnit), logs e observabilidade básica.
+- **Dados**: integrações de APIs, ETL leve, consultas eficientes (MySQL/SQLite/MongoDB).
+- **DevOps prático**: Docker, docker-compose, GitHub Actions, scripts de setup.
+- **Frontend de apoio**: React + TS quando necessário.
+- **Entrega**: código simples, documentação objetiva e reprodutibilidade.
 
 ---
 
-## 🧰 Stack Principal
+## 🧰 Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,git,github,linux,docker,mysql,mongodb,postgres,sqlite,redis,js,ts,react,html,css,vscode,postman&perline=10" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,git,github,docker,linux,mysql,sqlite,postgres,mongodb,redis,js,ts,react,html,css,vscode,postman&perline=10" alt="skills" />
   </a>
 </p>
 
@@ -87,10 +87,10 @@ Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring Boot)**, A
 
 ---
 
-## 📊 Métricas (dinâmicas)
+## 📊 Métricas
 
 <div align="center">
-  
+
   <img src="https://github-profile-trophy.vercel.app/?username=johncarvalhonx&theme=algolia&no-frame=true&no-bg=true&margin-w=6" alt="trophies" />
 
   <br/><br/>
@@ -114,10 +114,6 @@ Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring Boot)**, A
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johncarvalhonx&theme=github_dark&utcOffset=-3" alt="productive-time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johncarvalhonx&theme=github_dark" alt="commit-language" />
 
-  <br/><br/>
-
-  <img src="https://metrics.lecoq.io/johncarvalhonx?template=classic&isocalendar=1&languages=1&achievements=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&config.timezone=America%2FSao_Paulo" alt="metrics" />
-
 </div>
 
 ---
@@ -126,14 +122,15 @@ Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring Boot)**, A
 
 **Analista de Sistemas — Polícia Civil (DIPOL/DTI) | ago/2025 — atual**  
 - Suporte e manutenção em sistemas internos.  
-- Atendimento técnico, triagem e documentação.
+- Scripts de automação e relatórios.  
+- Triagem técnica e documentação.
 
-**Freelancer (Projetos diversos)**  
+**Dev Backend (Freelancer) | fev/2023 — atual**  
 - APIs e CLIs em Python.  
 - Integrações com serviços externos.  
 - Entregas curtas com versionamento e testes.
 
-**Digitador — PRODESP**  
+**Digitador — PRODESP | mai/2024 — ago/2025**  
 - Confiabilidade de dados, revisão e organização.  
 - Rotina, prazos e qualidade.
 
@@ -141,7 +138,7 @@ Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring Boot)**, A
 
 ## 🎓 Formação
 
-- **Bacharelado em Ciência da Computação — UNIP** (São Paulo)  
+- **Bacharelado em Ciência da Computação — UNIP (São Paulo)**  
   Conclusão prevista: **dez/2025**  
 - **Ensino Médio — Colégio Máximo** (2021)
 
@@ -149,8 +146,8 @@ Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring Boot)**, A
 
 ## 📜 Cursos & Certificações (seleção)
 
-- Python do zero ao avançado — Udemy  
 - Programação Concorrente/Assíncrona em Python — Udemy  
+- Python do zero ao avançado — Udemy  
 - React + TypeScript com projetos — Udemy  
 - Fullstack Web (HTML/CSS/JS) — Udemy  
 - Lógica de Programação & Algoritmos — Udemy  
@@ -167,7 +164,7 @@ Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring Boot)**, A
 
 ---
 
-## 🔗 Contatos
+## 🔗 Contato
 
 <p align="center">
   <a href="mailto:joaopedrovillasboascarvalho@gmail.com">
@@ -180,10 +177,3 @@ Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring Boot)**, A
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@johncarvalhonx-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
----
-
-<div align="center">
-  <b>Disponível para Júnior. Vamos conversar.</b><br/>
-  <a href="mailto:joaopedrovillasboascarvalho@gmail.com">joaopedrovillasboascarvalho@gmail.com</a> · <a href="https://www.linkedin.com/in/joaopedrovbcarvalho/">LinkedIn</a>
-</div>
