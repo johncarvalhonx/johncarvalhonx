@@ -5,7 +5,7 @@
   <h1><strong>João Pedro Villas Boas de Carvalho</strong></h1>
 
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1100&color=39D353&center=true&vCenter=true&width=1000&lines=Backend+Engineer+(Python%2FJava);APIs+REST%2FMicroservices%2C+Cloud%2C+CI%2FCD;FastAPI%2C+Spring+Boot%2C+Docker%2C+MySQL%2C+MongoDB;Dispon%C3%ADvel%3A+Est%C3%A1gio%2FJr+(Remoto)%2C+S%C3%A3o+Paulo+-+BR" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1100&color=39D353&center=true&vCenter=true&width=1000&lines=Backend+Engineer+(Python%2FJava);APIs+REST%2FMicroservices%2C+Cloud%2C+CI%2FCD;FastAPI%2C+Spring+Boot%2C+Docker%2C+MySQL%2C+MongoDB;Dispon%C3%ADvel%3A+Est%C3%A1gio%2FJr+(Remoto)%2C+S%C3%A3o+Paulo+-+BR" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1100&color=39D353&center=true&vCenter=true&width=1000&lines=Backend+Engineer+(Python%2FJava);APIs+REST%2FMicroservices%2C+Cloud%2C+CI%2FCD;FastAPI%2C+Spring+Boot%2C+Docker%2C+MySQL%2C+MongoDB;Dispon%C3%ADvel%3A+%2FJr+(Remoto)%2C+S%C3%A3o+Paulo+-+BR" alt="typing" />
   </a>
 
   <p>
