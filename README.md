@@ -121,8 +121,7 @@ Atuar como **Desenvolvedor Backend Júnior** com foco em **Python (FastAPI)** e 
 ## 💼 Experiência
 
 **Analista de Sistemas — Polícia Civil (DIPOL/DTI) | ago/2025 — atual**  
-- Suporte e manutenção em sistemas internos.  
-- Scripts de automação e relatórios.  
+- Suporte e manutenção em sistemas internos.   
 - Triagem técnica e documentação.
 
 **Dev Backend (Freelancer) | fev/2023 — atual**  
