@@ -32,7 +32,7 @@
 
 ## 🎯 Objetivo
 
-Estágio/Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring Boot)**, APIs REST, microserviços, integrações, bancos de dados e automação. Preferência por **remoto**.
+Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring Boot)**, APIs REST, microserviços, integrações, bancos de dados e automação.
 
 ---
 
