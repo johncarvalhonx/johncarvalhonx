@@ -36,13 +36,13 @@ Estágio/Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring B
 
 ---
 
-## ⚡ Destaques (curto e direto)
+## ⚡ Destaques
 
 - **Backend com Python/Java**: APIs REST, autenticação JWT, filas, testes, logs.
 - **Dados**: ETL leve, consumo/integração de APIs, consultas eficientes (SQL/NoSQL).
 - **DevOps básico**: Docker, docker-compose, CI/CD GitHub Actions.
 - **Frontend para apoio**: React + TS quando necessário.
-- **Rotina remota**: ambiente preparado, comunicação assíncrona, foco em entrega.
+- **Rotina remota (caso necessária)**: ambiente preparado, comunicação assíncrona, foco em entrega.
 
 ---
 
@@ -180,30 +180,6 @@ Estágio/Júnior em **Backend**. Foco em **Python (FastAPI)** e **Java (Spring B
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@johncarvalhonx-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
----
-
-## 🎵 / ⌚ Extras (dinâmicos)
-
-<div align="center">
-
-  <img src="https://github.com/johncarvalhonx/johncarvalhonx/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-
-  <br/><br/>
-
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d-contrib" />
-
-  <br/><br/>
-
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=johncarvalhonx&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=johncarvalhonx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-now-playing"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=johncarvalhonx&layout=compact&theme=react&hide_border=true" alt="wakatime"/>
-
-</div>
 
 ---
 
