@@ -32,7 +32,7 @@
 
 ## 🎯 Objetivo
 
-Atuar como **Desenvolvedor Backend Júnior** com foco em **Python (FastAPI)** e **Java (Spring Boot)**, construindo **APIs REST** bem testadas, integrações estáveis, bancos **SQL/NoSQL**, **Docker** e **CI/CD**.
+Atuar como **Desenvolvedor Backend Júnior** com foco em **Python (FastAPI)** e **Java (Spring Boot)**, construindo **APIs REST**, integrações estáveis, bancos **SQL/NoSQL**, **Docker** e **CI/CD**.
 
 ---
 
