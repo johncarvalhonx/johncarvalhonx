@@ -1,44 +1,38 @@
 <div align="center">
-  <!-- Header Animado Futurista -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=JOÃO%20PEDRO&fontSize=90&fontAlign=50&fontAlignY=35&animation=fadeIn&stroke=00f2ea&desc=SYSTEMS%20ANALYST%20//%20BACKEND%20DEV&descAlign=50&descAlignY=60&descSize=25" width="100%" alt="Header"/>
+  <!-- Header Estilo Glitch/Cyberpunk -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=00F2EA&background=0D111700&center=true&vCenter=true&width=900&lines=JO%C3%83O+PEDRO+VB.;SYSTEMS_ANALYST.exe;BACKEND_DEVELOPER;" alt="Typing SVG" />
   
-  <!-- Typing Effect: Simulando terminal -->
+  <br>
+  
+  <!-- Terminal Prompt Simulation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F2EA&background=00000000&center=true&vCenter=true&width=500&lines=%3E_Initializing+System...;%3E_Loading+Salesforce+Module...;%3E_Analista+de+Sistemas+@+CLARO;%3E_Python+%7C+Java+%7C+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=757575&background=00000000&center=true&vCenter=true&width=600&lines=user%40claro%3A~%24+loading+profile_data...;user%40claro%3A~%24+access_level%3A+ADMIN;user%40claro%3A~%24+current_mission%3A+SALESFORCE+ECOSYSTEM" alt="Console Log" />
   </a>
 </div>
 
 <br/>
 
-<!-- Layout em Grid para parecer um Dashboard -->
+<!-- LAYOUT CENTRAL: Neofetch + Snake Animation -->
 <div align="center">
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h3>👨‍💻 User_Profile.json</h3>
-      <!-- Bio apresentada como código JSON para visual nerd -->
-      <pre>
-{
-  "user": "João Pedro Villas Boas",
-  "role": "Systems Analyst",
-  "company": "CLARO",
-  "location": "São Paulo, BR",
-  "status": "Building Scalable Systems",
-  "focus": [
-    "Salesforce Ecosystem",
-    "Backend Architecture",
-    "API Development"
-  ],
-  "graduation": "Dec/2025"
-}
-      </pre>
+    <!-- Coluna 1: Simulação de Neofetch (Info do Sistema) -->
+    <td valign="center" width="55%">
+<pre>
+<b style="color:#00F2EA">joao@backend</b>
+<span style="color:#5c6370">------------</span>
+<b style="color:#E06C75">OS</b>: Salesforce & Cloud Arch
+<b style="color:#98C379">Host</b>: CLARO (Systems Analyst)
+<b style="color:#E5C07B">Kernel</b>: Python 3.12 & Java 21
+<b style="color:#61AFEF">Uptime</b>: Out 2025 - Present
+<b style="color:#C678DD">Packages</b>: Docker, FastAPI, Spring
+<b style="color:#56B6C2">Memory</b>: Continuous Learning
+<b style="color:#ABB2BF">Shell</b>: ZSH / Bash
+</pre>
     </td>
-    <td valign="top" width="50%">
-      <h3>🚀 Tech_Stack.sys</h3>
-      <div align="center">
-        <!-- Ícones organizados -->
-        <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,salesforce,docker,mysql,postgres,mongodb,git,linux,vscode&perline=4&theme=dark" />
-      </div>
+    <!-- Coluna 2: Animação da Cobrinha (Snake) -->
+    <td valign="center" width="45%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncarvalhonx&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=00F2EA&title_color=E06C75" alt="Langs" width="100%"/>
     </td>
   </tr>
 </table>
@@ -46,108 +40,102 @@
 
 ---
 
-### 📡 Experience_Log
+### 📡 MISSION_LOG (Experience)
 
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Date</th>
-        <th>Role & Context</th>
-        <th>System Status</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b>OUT 2025 — NOW</b></td>
-        <td>
-          <img src="https://img.shields.io/badge/CLARO-Salesforce-00A4E4?style=flat-square&logo=salesforce&logoColor=white"/>
-          <br/>
-          <i>Analista de Sistemas</i>
-          <br/>
-          ▸ Desenvolvimento e sustentação no ecossistema Salesforce.<br/>
-          ▸ Análise de requisitos e integrações CRM.
-        </td>
-        <td>🟢 <b>Active</b></td>
-      </tr>
-      <tr>
-        <td><b>AGO 2025 — NOW</b></td>
-        <td>
-          <img src="https://img.shields.io/badge/POLÍCIA_CIVIL-DIPOL-1C1C1C?style=flat-square&logo=linux&logoColor=white"/>
-          <br/>
-          <i>Analista de Sistemas</i>
-          <br/>
-          ▸ Suporte técnico avançado (N3).<br/>
-          ▸ Manutenção de sistemas legados e triagem.
-        </td>
-        <td>🟡 <b>Concurrent</b></td>
-      </tr>
-      <tr>
-        <td><b>FEV 2023 — NOW</b></td>
-        <td>
-          <img src="https://img.shields.io/badge/FREELANCER-Backend-success?style=flat-square&logo=python&logoColor=white"/>
-          <br/>
-          <i>Developer</i>
-          <br/>
-          ▸ Construção de APIs RESTful e Scripts de automação.
-        </td>
-        <td>🟣 <b>On Demand</b></td>
-      </tr>
-    </tbody>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <br><br>
+  
+  <!-- Tabela de Experiência Estilizada -->
+  <table border="0">
+    <tr>
+      <td width="300px" align="center">
+        <img src="https://img.shields.io/badge/CURRENT_JOB-00A4E4?style=for-the-badge&logo=salesforce&logoColor=white"><br>
+        <b>Analista de Sistemas @ CLARO</b><br>
+        <span style="font-size: 10px; color: #8b949e;">OUT 2025 — ATUAL</span>
+      </td>
+      <td>
+        <code>>_</code> Atuação no ecossistema <b>Salesforce</b>.<br>
+        <code>>_</code> Desenvolvimento de soluções escaláveis e sustentação.<br>
+        <code>>_</code> Análise técnica e integração de sistemas.
+      </td>
+    </tr>
+    <tr>
+      <td width="300px" align="center">
+        <img src="https://img.shields.io/badge/GOVERNMENT-1C1C1C?style=for-the-badge&logo=linux&logoColor=white"><br>
+        <b>Analista de Sistemas @ PC-SP</b><br>
+        <span style="font-size: 10px; color: #8b949e;">AGO 2025 — ATUAL</span>
+      </td>
+      <td>
+        <code>>_</code> Suporte N3 para DIPOL/DTI.<br>
+        <code>>_</code> Triagem de bugs e manutenção de legado.
+      </td>
+    </tr>
   </table>
 </div>
 
 ---
 
-### 📊 System_Metrics & Analytics
+### 🛠️ ARSENAL (Stack)
 
-<!-- Dashboard de métricas estilo futurista -->
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=johncarvalhonx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ea&icon_color=ff0055&text_color=c9d1d9&count_private=true" height="150" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncarvalhonx&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ea&text_color=c9d1d9&langs_count=6" height="150" alt="langs" />
+  <div style="background-color: #161b22; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+    <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,salesforce,mysql,postgres,mongodb,docker,git,linux,postman,vscode,idea&theme=dark&perline=14" />
   </div>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johncarvalhonx&theme=radical&hide_border=true&background=0d1117&ring=ff0055&fire=ff0055&currStreakNum=c9d1d9" alt="streak" />
 </div>
 
 ---
 
-### 📂 Repository_Access
+### 📊 TELEMETRY (Stats)
 
 <div align="center">
-  <!-- Pinned Repos com tema consistente para evitar "falta de foto" -->
+  <!-- Stats Cards usando um tema escuro e limpo -->
+  <a href="https://github.com/johncarvalhonx">
+    <img src="https://github-readme-stats.vercel.app/api?username=johncarvalhonx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2EA&icon_color=E06C75&count_private=true" height="180"/>
+  </a>
+  <a href="https://github.com/johncarvalhonx">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=johncarvalhonx&theme=tokyonight&hide_border=true&background=0D1117&ring=E06C75&fire=E06C75&currStreakNum=00F2EA" height="180"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Animação Snake (Substitua 'johncarvalhonx' pelo seu user se a imagem não carregar, ela leva 24h para gerar a primeira vez as vezes) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johncarvalhonx&bg_color=0D1117&color=00F2EA&line=E06C75&point=FFFFFF&hide_border=true" width="100%">
+</div>
+
+---
+
+### 📂 TOP_SECRET_PROJECTS
+
+<!-- AVISO: Se as imagens abaixo quebrarem, verifique se o nome no parametro '&repo=' é EXATAMENTE igual ao nome do seu repositório público -->
+
+<div align="center">
   <a href="https://github.com/johncarvalhonx/Hyper-Cleaner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=Hyper-Cleaner&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ea&icon_color=ff0055&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=Hyper-Cleaner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2EA&icon_color=E06C75" height="120" />
   </a>
   <a href="https://github.com/johncarvalhonx/sustainable-habits-tracker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=sustainable-habits-tracker&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ea&icon_color=ff0055&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=sustainable-habits-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2EA&icon_color=E06C75" height="120" />
   </a>
-  <br/>
+  <br>
   <a href="https://github.com/johncarvalhonx/PyEmergia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=PyEmergia&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ea&icon_color=ff0055&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=PyEmergia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2EA&icon_color=E06C75" height="120" />
   </a>
   <a href="https://github.com/johncarvalhonx/simple_url_shortener">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=simple_url_shortener&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ea&icon_color=ff0055&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=simple_url_shortener&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2EA&icon_color=E06C75" height="120" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>🔗 Connect_Protocol</h3>
-  <a href="https://www.linkedin.com/in/joaopedrovbcarvalho/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-  <a href="mailto:joaopedrovillasboascarvalho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-SEND_MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-  </a>
-  <a href="https://github.com/johncarvalhonx" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
-  </a>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+  <p>
+    <a href="https://www.linkedin.com/in/joaopedrovbcarvalho/">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:joaopedrovillasboascarvalho@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-SEND_MSG-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer&text=" width="100%"/>
 </div>
