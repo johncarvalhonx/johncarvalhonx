@@ -5,7 +5,7 @@
   <h1><strong>João Pedro Villas Boas de Carvalho</strong></h1>
 
   <p>
-    <b>Analista de Sistemas Pleno · Claro Brasil</b><br/>
+    <b>Analista de Sistemas Sênior · Claro Brasil</b><br/>
     Backend · APIs · Integrações · Observabilidade
   </p>
 
