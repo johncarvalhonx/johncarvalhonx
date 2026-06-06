@@ -1,0 +1,12 @@
+<svg viewBox="0 0 216 52" width="216" height="52" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Email — ENVIAR MENSAGEM">
+  <defs>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="214" height="50" rx="25" fill="none" stroke="#22D3EE" stroke-width="2.2" opacity="0.45" filter="url(#g)"/>
+  <rect x="1" y="1" width="214" height="50" rx="25" fill="#0E1A2C" stroke="#22D3EE" stroke-width="1.5" stroke-opacity="0.7"/>
+  <g transform="translate(16,17) scale(0.75)" filter="url(#g)"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#9EDFEE"/></g>
+  <text x="46" y="31" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#9EDFEE">ENVIAR MENSAGEM</text>
+</svg>

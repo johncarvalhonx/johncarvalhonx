@@ -119,9 +119,11 @@ Estou aberto a oportunidades em **backend, APIs e integrações**. Se faz sentid
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/joaopedrovbcarvalho/"><img src="https://img.shields.io/badge/LinkedIn-conectar-39D353?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="mailto:joaopedrovillasboascarvalho@gmail.com"><img src="https://img.shields.io/badge/Email-enviar_mensagem-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
-<a href="https://github.com/johncarvalhonx"><img src="https://img.shields.io/badge/GitHub-seguir-39D353?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/joaopedrovbcarvalho/"><img src="assets/button_linkedin.svg" alt="LinkedIn — conectar" /></a>
+&nbsp;&nbsp;
+<a href="mailto:joaopedrovillasboascarvalho@gmail.com"><img src="assets/button_email.svg" alt="Email — enviar mensagem" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/johncarvalhonx"><img src="assets/button_github.svg" alt="GitHub — seguir" /></a>
 
 </div>
 
