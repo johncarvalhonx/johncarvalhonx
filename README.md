@@ -95,32 +95,14 @@ No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de
 
 ## 🗂️ Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/johncarvalhonx/Hyper-Cleaner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=Hyper-Cleaner&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/johncarvalhonx/sustainable-habits-tracker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=sustainable-habits-tracker&theme=react&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/johncarvalhonx/PyEmergia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=PyEmergia&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/johncarvalhonx/simple_url_shortener">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=simple_url_shortener&theme=react&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/johncarvalhonx/QuickYT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=QuickYT&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/johncarvalhonx/ProjetoMeteorologico">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johncarvalhonx&repo=ProjetoMeteorologico&theme=react&hide_border=true" />
-  </a>
-</p>
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **[simple_url_shortener](https://github.com/johncarvalhonx/simple_url_shortener)** | Encurtador de URLs — serviço/API simples. | `Python` |
+| **[ProjetoMeteorologico](https://github.com/johncarvalhonx/ProjetoMeteorologico)** | Consumo e exibição de dados meteorológicos via API. | `Python` |
+| **[PyEmergia](https://github.com/johncarvalhonx/PyEmergia)** | _(adicione uma breve descrição)_ | `Python` |
+| **[Hyper-Cleaner](https://github.com/johncarvalhonx/Hyper-Cleaner)** | Utilitário de limpeza e otimização do sistema. | `Python` |
+| **[sustainable-habits-tracker](https://github.com/johncarvalhonx/sustainable-habits-tracker)** | Aplicação para acompanhamento de hábitos sustentáveis. | `Python` |
+| **[QuickYT](https://github.com/johncarvalhonx/QuickYT)** | Ferramenta rápida para YouTube. | `Python` |
 
 ---
 
@@ -139,6 +121,14 @@ No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de
 
 ## 📊 GitHub em números
 
+<!--
+  NOTA: os dois cards abaixo (stats e top langs) vêm da instância PÚBLICA do
+  github-readme-stats, que sofre limite de requisições e às vezes não carrega.
+  Para deixá-los 100% estáveis, hospede sua própria instância (grátis, ~5 min)
+  e troque "github-readme-stats.vercel.app" pelo SEU domínio. Passo a passo:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+-->
+
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=johncarvalhonx&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats" height="170"/>
@@ -151,10 +141,6 @@ No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=johncarvalhonx&theme=react-dark&hide_border=true&radius=8&area=true" alt="activity-graph" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=johncarvalhonx&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
 
 </div>
 
