@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="João Pedro Carvalho — Analista de Sistemas · Backend, APIs e Integrações" width="100%" />
+<img src="assets/header.svg" alt="João Carvalho — Analista de Sistemas · Backend, APIs e Integrações" width="100%" />
 
 <br/>
 
