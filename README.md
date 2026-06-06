@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="João Carvalho — Analista de Sistemas · Backend, APIs e Integrações" width="100%" />
+<img src="assets/header.svg" alt="João Carvalho · Analista de Sistemas · Backend, APIs e Integrações" width="100%" />
 
 <br/>
 
@@ -8,9 +8,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-aberto_a_oportunidades-39D353?style=for-the-badge&labelColor=0D1117" alt="status"/>
-<img src="https://img.shields.io/badge/FOCO-backend_%C2%B7_APIs_%C2%B7_integra%C3%A7%C3%B5es-22D3EE?style=for-the-badge&labelColor=0D1117" alt="foco"/>
-<img src="https://komarev.com/ghpvc/?username=johncarvalhonx&style=for-the-badge&color=39D353&label=VISITAS" alt="views"/>
+<img src="assets/status.svg" width="100%" alt="Aberto a oportunidades · Foco: backend, APIs e integrações · São Paulo, Brasil" />
 
 <br/><br/>
 
@@ -20,28 +18,28 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 💠 Sobre mim
 
-Analista de Sistemas focado em **backend, APIs e integrações**. Meu trabalho gira em torno de uma ideia simples: **entregar serviços estáveis, com código bem mantido e previsível** — daqueles que rodam em produção sem surpresa.
+Analista de Sistemas focado em **backend, APIs e integrações**. Meu trabalho gira em torno de uma ideia simples: **entregar serviços estáveis, com código bem mantido e previsível**. O tipo de serviço que roda em produção sem surpresa.
 
 No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de plataformas corporativas de larga escala** (ecossistema **Salesforce/SOLAR**), onde diagnóstico de logs, *troubleshooting* de integrações e **observabilidade** (logs, métricas e alertas) fazem parte da rotina. Gosto de problemas que exigem entender o sistema de ponta a ponta, encontrar a causa raiz e documentar a solução com clareza.
 
 📍 São Paulo, Brasil · 🗣️ Português (nativo) e Inglês (fluente)
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## ⚡ O que eu faço bem
 
-- **APIs e backend em Python** — serviços REST com **FastAPI**, autenticação **OAuth2/JWT**, persistência com **SQLAlchemy** e programação **assíncrona/concorrente** quando o ganho justifica.
-- **Integrações confiáveis** — consumo e exposição de APIs, integração com ferramentas de fluxo (ex.: **JIRA**), com atenção a contratos, idempotência e consistência de dados.
-- **Qualidade e entrega contínua** — **Pytest**, **CI/CD com GitHub Actions**, versionamento disciplinado e revisões via **Git/GitHub**.
-- **Diagnóstico e observabilidade** — investigação de logs, análise de causa raiz e melhoria de visibilidade dos serviços em ambientes corporativos críticos.
-- **Dados** — modelagem e consultas em **MySQL** e **MongoDB**.
-- **Apoio no front quando preciso** — base sólida em **JavaScript/TypeScript**, **HTML/CSS** e **React** para colaborar de ponta a ponta.
+- **APIs e backend em Python** · serviços REST com **FastAPI**, autenticação **OAuth2/JWT**, persistência com **SQLAlchemy** e programação **assíncrona/concorrente** quando o ganho justifica.
+- **Integrações confiáveis** · consumo e exposição de APIs, integração com ferramentas de fluxo (ex.: **JIRA**), com atenção a contratos, idempotência e consistência de dados.
+- **Qualidade e entrega contínua** · **Pytest**, **CI/CD com GitHub Actions**, versionamento disciplinado e revisões via **Git/GitHub**.
+- **Diagnóstico e observabilidade** · investigação de logs, análise de causa raiz e melhoria de visibilidade dos serviços em ambientes corporativos críticos.
+- **Dados** · modelagem e consultas em **MySQL** e **MongoDB**.
+- **Apoio no front quando preciso** · base sólida em **JavaScript/TypeScript**, **HTML/CSS** e **React** para colaborar de ponta a ponta.
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🧬 Stack & Ferramentas
 
@@ -55,51 +53,51 @@ No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛰️ Experiência
 
-**Analista de Sistemas — Claro Brasil** · *out/2025 — atual*
+**Analista de Sistemas · Claro Brasil** · *out/2025 → atual*
 - Atuação em **backend, APIs e integrações** no ecossistema **Salesforce/SOLAR**.
 - Sustentação e evolução de serviços, **troubleshooting** e investigação de causa raiz a partir de logs.
 - Melhorias de **observabilidade** (logs, métricas e alertas) para aumentar a confiabilidade da plataforma.
 
-**Desenvolvedor Backend — Freelancer** · *jan/2023 — atual*
+**Desenvolvedor Backend · Freelancer** · *jan/2023 → atual*
 - Desenvolvimento de APIs e ferramentas em **Python**, integrações com serviços externos e entregas versionadas.
 
-**Analista de Sistemas — Polícia Civil (DIPOL/DTI)** · *ago/2025 — out/2025*
+**Analista de Sistemas · Polícia Civil (DIPOL/DTI)** · *ago/2025 → out/2025*
 - Suporte e análise de sistemas no contexto de tecnologia da informação do órgão.
 
-**Digitador — PRODESP** · *mai/2024 — jul/2025*
+**Digitador · PRODESP** · *mai/2024 → jul/2025*
 - Tratamento e estruturação de dados com precisão e consistência.
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🗂️ Projetos em destaque
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[simple_url_shortener](https://github.com/johncarvalhonx/simple_url_shortener)** | Encurtador de URLs — serviço/API simples. | `Python` |
+| **[simple_url_shortener](https://github.com/johncarvalhonx/simple_url_shortener)** | Encurtador de URLs · serviço/API simples. | `Python` |
 | **[ProjetoMeteorologico](https://github.com/johncarvalhonx/ProjetoMeteorologico)** | Consumo e exibição de dados meteorológicos via API. | `Python` |
 | **[PyEmergia](https://github.com/johncarvalhonx/PyEmergia)** | _(adicione uma breve descrição)_ | `Python` |
 | **[Hyper-Cleaner](https://github.com/johncarvalhonx/Hyper-Cleaner)** | Utilitário de limpeza e otimização do sistema. | `Python` |
 | **[sustainable-habits-tracker](https://github.com/johncarvalhonx/sustainable-habits-tracker)** | Aplicação para acompanhamento de hábitos sustentáveis. | `Python` |
 | **[QuickYT](https://github.com/johncarvalhonx/QuickYT)** | Ferramenta rápida para YouTube. | `Python` |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🎓 Formação & Certificações
 
-🎓 **Bacharel em Ciência da Computação** — UNIP, São Paulo *(concluído em 2025)*
+🎓 **Bacharel em Ciência da Computação** · UNIP, São Paulo *(concluído em 2025)*
 
 **Cursos & certificações (seleção):**
-- Programação concorrente e assíncrona em Python — Udemy
-- Python do zero ao avançado — Udemy
-- React + TypeScript com projetos — Udemy
-- Desenvolvimento Fullstack Web (HTML/CSS/JS) — Udemy
-- Java & Spring Boot com MySQL/MongoDB — Udemy
+- Programação concorrente e assíncrona em Python · Udemy
+- Python do zero ao avançado · Udemy
+- React + TypeScript com projetos · Udemy
+- Desenvolvimento Fullstack Web (HTML/CSS/JS) · Udemy
+- Java & Spring Boot com MySQL/MongoDB · Udemy
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📡 Atividade no GitHub
 
@@ -113,7 +111,7 @@ No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🤝 Vamos conversar
 
@@ -129,4 +127,4 @@ Estou aberto a oportunidades em **backend, APIs e integrações**. Se faz sentid
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Vamos construir algo juntos — São Paulo, Brasil · aberto a novas oportunidades" />
+<img src="assets/footer.svg" width="100%" alt="Vamos construir algo juntos · São Paulo, Brasil · aberto a novas oportunidades" />

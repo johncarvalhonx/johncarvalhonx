@@ -1,0 +1,53 @@
+<svg viewBox="0 0 1280 64" width="1280" height="64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aberto a oportunidades · Foco: backend, APIs e integrações · São Paulo, Brasil">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0C1626"/>
+      <stop offset="100%" stop-color="#070D18"/>
+    </linearGradient>
+    <pattern id="sdots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#3CF0A0" opacity="0.06"/>
+    </pattern>
+    <filter id="sglow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- panel -->
+  <rect x="0" y="0" width="1280" height="64" rx="16" fill="url(#sbg)"/>
+  <rect x="0" y="0" width="1280" height="64" rx="16" fill="url(#sdots)"/>
+  <rect x="0.75" y="0.75" width="1278.5" height="62.5" rx="15.5" fill="none" stroke="#1B2A45" stroke-width="1.5"/>
+
+  <!-- corner ticks -->
+  <g stroke="#22D3EE" stroke-width="1.6" stroke-linecap="round" opacity="0.45">
+    <path d="M14 28 L14 14 L28 14"/>
+    <path d="M1266 28 L1266 14 L1252 14"/>
+    <path d="M14 36 L14 50 L28 50"/>
+    <path d="M1266 36 L1266 50 L1252 50"/>
+  </g>
+
+  <!-- pill 1: aberto a oportunidades -->
+  <g font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="15" font-weight="600" letter-spacing="0.6">
+    <rect x="198" y="14" width="272" height="36" rx="18" fill="#0E1A2C" stroke="#39D353" stroke-opacity="0.55"/>
+    <circle cx="222" cy="32" r="7" fill="none" stroke="#39D353" stroke-opacity="0.45"/>
+    <circle cx="222" cy="32" r="4" fill="#39D353" filter="url(#sglow)">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="242" y="37" fill="#AEE6BE">ABERTO A OPORTUNIDADES</text>
+
+    <!-- pill 2: foco -->
+    <rect x="494" y="14" width="330" height="36" rx="18" fill="#0E1A2C" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <g transform="translate(518,32) rotate(45)" filter="url(#sglow)">
+      <rect x="-4.5" y="-4.5" width="9" height="9" fill="#22D3EE"/>
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+    <text x="538" y="37" fill="#9EDFEE">BACKEND · APIs · INTEGRAÇÕES</text>
+
+    <!-- pill 3: localização -->
+    <rect x="848" y="14" width="234" height="36" rx="18" fill="#0E1A2C" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <circle cx="872" cy="32" r="7" fill="none" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <circle cx="872" cy="32" r="3.5" fill="none" stroke="#22D3EE" stroke-opacity="0.8"/>
+    <circle cx="872" cy="32" r="1.6" fill="#6EE7F9"/>
+    <text x="892" y="37" fill="#9EDFEE">SÃO PAULO · BRASIL</text>
+  </g>
+</svg>
