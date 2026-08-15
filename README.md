@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="João Carvalho · Analista de Sistemas · Backend, APIs e Integrações" width="100%" />
+<img src="assets/header.svg" alt="João Carvalho · Analista de Sistemas Especialista na Claro · Backend, APIs e Integrações" width="100%" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ## 💠 Sobre mim
 
-Analista de Sistemas focado em **backend, APIs e integrações**. Meu trabalho gira em torno de uma ideia simples: **entregar serviços estáveis, com código bem mantido e previsível**. O tipo de serviço que roda em produção sem surpresa.
+**Analista de Sistemas Especialista na Claro**, focado em **backend, APIs e integrações**. Meu trabalho gira em torno de uma ideia simples: **entregar serviços estáveis, com código bem mantido e previsível**. O tipo de serviço que roda em produção sem surpresa.
 
 No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de plataformas corporativas de larga escala** (ecossistema **Salesforce/SOLAR**), onde diagnóstico de logs, *troubleshooting* de integrações e **observabilidade** (logs, métricas e alertas) fazem parte da rotina. Gosto de problemas que exigem entender o sistema de ponta a ponta, encontrar a causa raiz e documentar a solução com clareza.
 
@@ -57,7 +57,7 @@ No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de
 
 ## 🛰️ Experiência
 
-**Analista de Sistemas · Claro Brasil** · *out/2025 → atual*
+**Analista de Sistemas Especialista · Claro Brasil** · *out/2025 → atual*
 - Atuação em **backend, APIs e integrações** no ecossistema **Salesforce/SOLAR**.
 - Sustentação e evolução de serviços, **troubleshooting** e investigação de causa raiz a partir de logs.
 - Melhorias de **observabilidade** (logs, métricas e alertas) para aumentar a confiabilidade da plataforma.
@@ -77,12 +77,12 @@ No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[simple_url_shortener](https://github.com/johncarvalhonx/simple_url_shortener)** | Encurtador de URLs · serviço/API simples. | `Python` |
-| **[ProjetoMeteorologico](https://github.com/johncarvalhonx/ProjetoMeteorologico)** | Consumo e exibição de dados meteorológicos via API. | `Python` |
-| **[PyEmergia](https://github.com/johncarvalhonx/PyEmergia)** | _(adicione uma breve descrição)_ | `Python` |
-| **[Hyper-Cleaner](https://github.com/johncarvalhonx/Hyper-Cleaner)** | Utilitário de limpeza e otimização do sistema. | `Python` |
-| **[sustainable-habits-tracker](https://github.com/johncarvalhonx/sustainable-habits-tracker)** | Aplicação para acompanhamento de hábitos sustentáveis. | `Python` |
-| **[QuickYT](https://github.com/johncarvalhonx/QuickYT)** | Ferramenta rápida para YouTube. | `Python` |
+| **[Evo](https://github.com/johncarvalhonx/Evo)** | Painel multimídia do PC para um segundo monitor, em tela cheia, com sensores de hardware em tempo real. | `Tauri` · `Rust` · `React` · `TypeScript` |
+| **[Vitra](https://github.com/johncarvalhonx/Vitra)** | Otimizador e limpador para Windows 10 e 11 (x64), com interface própria e instalador. | `Electron` · `React` · `TypeScript` |
+| **[Valor.ia](https://github.com/johncarvalhonx/Valor.ia)** | Assistente financeiro local por texto e voz, com painel web, API e persistência em SQLite. | `Python` · `Flask` · `SQLite` |
+| **[controledehoras](https://github.com/johncarvalhonx/controledehoras)** | Aplicativo desktop que registra horas extras e calcula o valor a receber e os totais do mês e do ano. | `Python` · `PySide6` · `SQLite` |
+| **[ecomonitormobile](https://github.com/johncarvalhonx/ecomonitormobile)** | Monitoramento ambiental: app Android consumindo uma API própria de clima e qualidade do ar. | `Kotlin` · `Python` · `FastAPI` |
+| **[sustainable-habits-tracker](https://github.com/johncarvalhonx/sustainable-habits-tracker)** | API REST para acompanhamento de hábitos sustentáveis, com autenticação JWT e resumos periódicos. | `Python` · `FastAPI` · `Docker` |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -119,11 +119,11 @@ Estou aberto a oportunidades em **backend, APIs e integrações**. Se faz sentid
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/joaopedrovbcarvalho/"><img src="assets/button_linkedin.svg" alt="LinkedIn — conectar" /></a>
+<a href="https://www.linkedin.com/in/joaopedrovbcarvalho/"><img src="assets/button_linkedin.svg" alt="LinkedIn · conectar" /></a>
 &nbsp;&nbsp;
-<a href="mailto:joaopedrovillasboascarvalho@gmail.com"><img src="assets/button_email.svg" alt="Email — enviar mensagem" /></a>
+<a href="mailto:joaopedrovillasboascarvalho@gmail.com"><img src="assets/button_email.svg" alt="Email · enviar mensagem" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/johncarvalhonx"><img src="assets/button_github.svg" alt="GitHub — seguir" /></a>
+<a href="https://github.com/johncarvalhonx"><img src="assets/button_github.svg" alt="GitHub · seguir" /></a>
 
 </div>
 
