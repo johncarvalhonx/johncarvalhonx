@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="assets/status.svg" width="100%" alt="Aberto a oportunidades · Foco: backend, APIs e integrações · São Paulo, Brasil" />
+<img src="assets/status.svg" width="100%" alt="Foco: backend, APIs e integrações · São Paulo, Brasil" />
 
 <br/><br/>
 
@@ -115,7 +115,7 @@ No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de
 
 ## 🤝 Vamos conversar
 
-Estou aberto a oportunidades em **backend, APIs e integrações**. Se faz sentido para o seu time, será um prazer trocar uma ideia.
+Gosto de conversar sobre **backend, APIs e integrações**. Se você trabalha com isso ou quer discutir alguma ideia, é só chamar.
 
 <div align="center">
 
@@ -129,4 +129,4 @@ Estou aberto a oportunidades em **backend, APIs e integrações**. Se faz sentid
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Vamos construir algo juntos · São Paulo, Brasil · aberto a novas oportunidades" />
+<img src="assets/footer.svg" width="100%" alt="Vamos construir algo juntos · São Paulo, Brasil" />
