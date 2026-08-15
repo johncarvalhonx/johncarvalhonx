@@ -1,132 +1,107 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="João Carvalho · Analista de Sistemas Especialista na Claro · Backend, APIs e Integrações" width="100%" />
+<img src="assets/header.svg" width="100%" alt="João Pedro Villas Boas de Carvalho · Analista de Sistemas Especialista na Claro · Backend, APIs e integrações" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=760&lines=Construindo+servi%C3%A7os+est%C3%A1veis+e+bem+testados;APIs+REST+%C2%B7+OAuth2%2FJWT+%C2%B7+FastAPI+%C2%B7+SQLAlchemy;CI%2FCD+%C2%B7+Docker+%C2%B7+Pytest+%C2%B7+observabilidade;Do+diagn%C3%B3stico+de+logs+%C3%A0+entrega+em+produ%C3%A7%C3%A3o" alt="taglines" />
-
-<br/><br/>
-
-<img src="assets/status.svg" width="100%" alt="Foco: backend, APIs e integrações · São Paulo, Brasil" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/joaopedrovbcarvalho/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=4FA3FF" alt="LinkedIn"/></a>
-<a href="https://github.com/johncarvalhonx"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
-<a href="mailto:joaopedrovillasboascarvalho@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA5C5C" alt="Email"/></a>
+<img src="assets/status.svg" width="100%" alt="Backend, APIs e integrações · São Paulo, Brasil · Português e inglês" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br/>
 
-## 💠 Sobre mim
+<img src="assets/sec-perfil.svg" width="100%" alt="01 · Perfil" />
 
-**Analista de Sistemas Especialista na Claro**, focado em **backend, APIs e integrações**. Meu trabalho gira em torno de uma ideia simples: **entregar serviços estáveis, com código bem mantido e previsível**. O tipo de serviço que roda em produção sem surpresa.
+Analista de Sistemas Especialista na **Claro**, atuando em **backend, APIs e integrações** dentro do ecossistema **Salesforce/SOLAR**.
 
-No dia a dia transito entre **desenvolvimento em Python** e a **sustentação de plataformas corporativas de larga escala** (ecossistema **Salesforce/SOLAR**), onde diagnóstico de logs, *troubleshooting* de integrações e **observabilidade** (logs, métricas e alertas) fazem parte da rotina. Gosto de problemas que exigem entender o sistema de ponta a ponta, encontrar a causa raiz e documentar a solução com clareza.
+Meu trabalho é sustentar e evoluir serviços que já rodam em produção: investigação de logs, análise de causa raiz, correção de integrações e instrumentação do que falta de observabilidade. Em paralelo, desenvolvo em **Python** e **TypeScript**, com foco em APIs REST e aplicações desktop.
 
-📍 São Paulo, Brasil · 🗣️ Português (nativo) e Inglês (fluente)
+<img src="assets/sec-competencias.svg" width="100%" alt="02 · Competências" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+- **Backend e APIs.** Serviços REST em Python com FastAPI, autenticação OAuth2 e JWT, persistência com SQLAlchemy e execução assíncrona e concorrente.
+- **Integrações.** Consumo e exposição de APIs entre sistemas, integração com JIRA, definição de contratos, idempotência e consistência de dados.
+- **Qualidade e entrega.** Testes com Pytest, pipelines de CI/CD no GitHub Actions, versionamento e revisão de código em Git.
+- **Operação e diagnóstico.** Leitura de logs, análise de causa raiz e instrumentação de logs, métricas e alertas em plataformas de larga escala.
+- **Dados.** Modelagem e consultas em MySQL e MongoDB.
+- **Interface.** JavaScript, TypeScript, React e HTML/CSS, para atuar de ponta a ponta quando o projeto exige.
 
-## ⚡ O que eu faço bem
-
-- **APIs e backend em Python** · serviços REST com **FastAPI**, autenticação **OAuth2/JWT**, persistência com **SQLAlchemy** e programação **assíncrona/concorrente** quando o ganho justifica.
-- **Integrações confiáveis** · consumo e exposição de APIs, integração com ferramentas de fluxo (ex.: **JIRA**), com atenção a contratos, idempotência e consistência de dados.
-- **Qualidade e entrega contínua** · **Pytest**, **CI/CD com GitHub Actions**, versionamento disciplinado e revisões via **Git/GitHub**.
-- **Diagnóstico e observabilidade** · investigação de logs, análise de causa raiz e melhoria de visibilidade dos serviços em ambientes corporativos críticos.
-- **Dados** · modelagem e consultas em **MySQL** e **MongoDB**.
-- **Apoio no front quando preciso** · base sólida em **JavaScript/TypeScript**, **HTML/CSS** e **React** para colaborar de ponta a ponta.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🧬 Stack & Ferramentas
+<img src="assets/sec-stack.svg" width="100%" alt="03 · Stack" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,mysql,mongodb,docker,githubactions,git,github,linux,js,ts,react,html,css,postman,vscode&perline=9&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,mysql,mongodb,docker,githubactions,git,github,linux,js,ts,react,html,css,postman,vscode&perline=9&theme=dark" alt="Python, FastAPI, Java, Spring, MySQL, MongoDB, Docker, GitHub Actions, Git, GitHub, Linux, JavaScript, TypeScript, React, HTML, CSS, Postman, VS Code" />
 </p>
 
 <div align="center">
 
-`Python` · `FastAPI` · `SQLAlchemy` · `OAuth2/JWT` · `Pytest` · `Docker` · `CI/CD` · `MySQL` · `MongoDB` · `REST` · `Git/GitHub` · `Linux`
+`Python` · `FastAPI` · `SQLAlchemy` · `OAuth2/JWT` · `Pytest` · `Docker` · `CI/CD` · `MySQL` · `MongoDB` · `REST` · `Git` · `Linux`
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/sec-experiencia.svg" width="100%" alt="04 · Experiência" />
 
-## 🛰️ Experiência
+**Analista de Sistemas Especialista** · Claro Brasil · *out/2025 até hoje*
 
-**Analista de Sistemas Especialista · Claro Brasil** · *out/2025 → atual*
-- Atuação em **backend, APIs e integrações** no ecossistema **Salesforce/SOLAR**.
-- Sustentação e evolução de serviços, **troubleshooting** e investigação de causa raiz a partir de logs.
-- Melhorias de **observabilidade** (logs, métricas e alertas) para aumentar a confiabilidade da plataforma.
+- Backend, APIs e integrações no ecossistema Salesforce/SOLAR.
+- Sustentação e evolução de serviços em produção, com investigação de causa raiz a partir de logs.
+- Instrumentação de logs, métricas e alertas para aumentar a confiabilidade da plataforma.
 
-**Desenvolvedor Backend · Freelancer** · *jan/2023 → atual*
-- Desenvolvimento de APIs e ferramentas em **Python**, integrações com serviços externos e entregas versionadas.
+**Desenvolvedor Backend** · Autônomo · *jan/2023 até hoje*
 
-**Analista de Sistemas · Polícia Civil (DIPOL/DTI)** · *ago/2025 → out/2025*
-- Suporte e análise de sistemas no contexto de tecnologia da informação do órgão.
+- APIs e ferramentas em Python, integrações com serviços externos e entregas versionadas.
 
-**Digitador · PRODESP** · *mai/2024 → jul/2025*
-- Tratamento e estruturação de dados com precisão e consistência.
+**Analista de Sistemas** · Polícia Civil, DIPOL/DTI · *ago/2025 a out/2025*
 
-<img src="assets/divider.svg" width="100%" alt="" />
+- Suporte e análise dos sistemas internos do órgão.
 
-## 🗂️ Projetos em destaque
+**Digitador** · PRODESP · *mai/2024 a jul/2025*
+
+- Tratamento e estruturação de dados.
+
+<img src="assets/sec-projetos.svg" width="100%" alt="05 · Projetos" />
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Evo](https://github.com/johncarvalhonx/Evo)** | Painel multimídia do PC para um segundo monitor, em tela cheia, com sensores de hardware em tempo real. | `Tauri` · `Rust` · `React` · `TypeScript` |
+| **[Evo](https://github.com/johncarvalhonx/Evo)** | Painel do PC para um segundo monitor, em tela cheia, com leitura de sensores de hardware em tempo real. | `Tauri` · `Rust` · `React` · `TypeScript` |
 | **[Vitra](https://github.com/johncarvalhonx/Vitra)** | Otimizador e limpador para Windows 10 e 11 (x64), com interface própria e instalador. | `Electron` · `React` · `TypeScript` |
 | **[Valor.ia](https://github.com/johncarvalhonx/Valor.ia)** | Assistente financeiro local por texto e voz, com painel web, API e persistência em SQLite. | `Python` · `Flask` · `SQLite` |
 | **[controledehoras](https://github.com/johncarvalhonx/controledehoras)** | Aplicativo desktop que registra horas extras e calcula o valor a receber e os totais do mês e do ano. | `Python` · `PySide6` · `SQLite` |
 | **[ecomonitormobile](https://github.com/johncarvalhonx/ecomonitormobile)** | Monitoramento ambiental: app Android consumindo uma API própria de clima e qualidade do ar. | `Kotlin` · `Python` · `FastAPI` |
 | **[sustainable-habits-tracker](https://github.com/johncarvalhonx/sustainable-habits-tracker)** | API REST para acompanhamento de hábitos sustentáveis, com autenticação JWT e resumos periódicos. | `Python` · `FastAPI` · `Docker` |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/sec-formacao.svg" width="100%" alt="06 · Formação" />
 
-## 🎓 Formação & Certificações
+**Bacharelado em Ciência da Computação** · UNIP, São Paulo · *concluído em 2025*
 
-🎓 **Bacharel em Ciência da Computação** · UNIP, São Paulo *(concluído em 2025)*
+Certificações complementares:
 
-**Cursos & certificações (seleção):**
 - Programação concorrente e assíncrona em Python · Udemy
 - Python do zero ao avançado · Udemy
-- React + TypeScript com projetos · Udemy
-- Desenvolvimento Fullstack Web (HTML/CSS/JS) · Udemy
-- Java & Spring Boot com MySQL/MongoDB · Udemy
+- React com TypeScript · Udemy
+- Desenvolvimento web fullstack, HTML, CSS e JavaScript · Udemy
+- Java e Spring Boot com MySQL e MongoDB · Udemy
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 📡 Atividade no GitHub
+<img src="assets/sec-atividade.svg" width="100%" alt="07 · Atividade" />
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=johncarvalhonx&hide_border=true&background=0D1117&stroke=1B2A45&border=1B2A45&ring=39D353&fire=22D3EE&currStreakLabel=39D353&sideLabels=8FA1BE&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johncarvalhonx&hide_border=true&bg_color=0D1117&color=39D353&line=22D3EE&point=FFFFFF&area=true&area_color=39D353&radius=8&height=300" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johncarvalhonx&hide_border=true&bg_color=0D1117&color=39D353&line=22D3EE&point=FFFFFF&area=true&area_color=39D353&radius=8&height=300" alt="Gráfico de contribuições dos últimos 30 dias" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/sec-contato.svg" width="100%" alt="08 · Contato" />
 
-## 🤝 Vamos conversar
-
-Gosto de conversar sobre **backend, APIs e integrações**. Se você trabalha com isso ou quer discutir alguma ideia, é só chamar.
+Para assuntos profissionais, o LinkedIn e o e-mail abaixo são os canais mais diretos.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/joaopedrovbcarvalho/"><img src="assets/button_linkedin.svg" alt="LinkedIn · conectar" /></a>
+<a href="https://www.linkedin.com/in/joaopedrovbcarvalho/"><img src="assets/button_linkedin.svg" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:joaopedrovillasboascarvalho@gmail.com"><img src="assets/button_email.svg" alt="Email · enviar mensagem" /></a>
+<a href="mailto:joaopedrovillasboascarvalho@gmail.com"><img src="assets/button_email.svg" alt="E-mail" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/johncarvalhonx"><img src="assets/button_github.svg" alt="GitHub · seguir" /></a>
+<a href="https://github.com/johncarvalhonx"><img src="assets/button_github.svg" alt="GitHub" /></a>
 
 </div>
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Vamos construir algo juntos · São Paulo, Brasil" />
+<img src="assets/footer.svg" width="100%" alt="João Pedro Villas Boas de Carvalho · Analista de Sistemas Especialista · Claro Brasil · São Paulo, Brasil" />
